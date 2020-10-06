@@ -52,6 +52,6 @@ int main()
         cin>>dim>>n;
         REP(i,n) REP(j,n) cin>>ar[i][j];
         power(ar,dim,n);
-        printm(ar,dim);
+        printM(ar,dim);
     }
 }
