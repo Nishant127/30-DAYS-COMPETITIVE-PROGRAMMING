@@ -50,7 +50,7 @@ int main()
     while(t--)
     {
         cin>>dim>>n;
-        REP(i,n) REP(j,n) cin>>ar[i][j];
+        REP(i,dim) REP(j,dim) cin>>ar[i][j];
         power(ar,dim,n);
         printM(ar,dim);
     }
