@@ -3,6 +3,7 @@
 using namespace std;
 #define N 150
 int ar[N][N], id[N][N];
+int i,j,k,dim;
 void mul(int A[][N],int B[][N],int dim)
 {
     int res[dim+1][dim+1];
