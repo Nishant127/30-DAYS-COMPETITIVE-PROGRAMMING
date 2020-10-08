@@ -1,4 +1,4 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 int knapsack01(int wt[],int val[],int w,int n)
 {
