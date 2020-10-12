@@ -16,7 +16,9 @@ int main()
 { 
 	int n; 
 	for (n = 1; n <= 20; n++) 
-		cout << "phi("<<n<<") = " << phi(n) << endl; 
+	{
+		cout << "phi("<<n<<") = " << phi(n) << endl;
+	}
 	return 0; 
 } 
 
