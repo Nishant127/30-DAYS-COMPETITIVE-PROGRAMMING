@@ -1,7 +1,7 @@
 ---
 title: Steps to integrate Razorpay 
 tags: ['payment']
-image: https://notionpack-uploads.s3.amazonaws.com/blog_images/tmp/tmpeewzjanu.png
+image: https://notionpack-uploads.s3.amazonaws.com/blog_images/tmp/tmpttn1pgz_.png
 date: 2022-07-22
 author: Nishant Handge
 description: dfgdfegdfgdfg
@@ -10,13 +10,13 @@ thumbnail: "https://via.placeholder.com/150"
 ---
 # Steps to integrate Razorpay 
 
-Update feature testing after updating blog structure.
+Update feature testing after updating blog structure updated
 
-* Final Checking on changed blog structure
+* Final Checking on changed blog structure acadcas
 
-* Storing API keys in settings.py
+* Storing API keys in settings.pyacacascascasc
 
-* Installing Razorpay library.
+* c a asd fasdf afdac
 
 * Creating order using Razorpay API.
 
@@ -42,5 +42,5 @@ In each case, you have to provide the `Filename`, which is the path of the file
 
 <br/>
 
-![](https://notionpack-uploads.s3.amazonaws.com/blog_images/tmp/tmpuztiysh5.png)
+![](https://notionpack-uploads.s3.amazonaws.com/blog_images/tmp/tmpo9llzi0n.png)
 
